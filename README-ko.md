@@ -1,6 +1,6 @@
 # 2019 JSconf Korea 웹페이지 변화 탐지 스크립트
 
-[English README (영어 설명 링크)](https://github.com/roeniss/check_if_something_changed_in_2019.jsconfkorea/blob/master/README.md)
+[ [Korean](https://github.com/roeniss/check_if_something_changed_in_2019.jsconfkorea/blob/master/README-ko.md) | [English](https://github.com/roeniss/check_if_something_changed_in_2019.jsconfkorea/blob/master/README.md) ]
 
 ## 1. 개요
 
